@@ -23,7 +23,6 @@ build:
 requirements:
   build:
     - toolchain
-    - libgfortran                # [osx]
     - ampl-mp
     - mumps
     - metis 5.1.*
